@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![](https://www.holopin.io/api/user/board?user=mansitee)
 
 
-#hi
-[![Example](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal "Example")
+#hi Terima kasih
+[![Example](https://github-stats-alpha.vercel.app/api?username=mansitee "Example")](https://github-stats-alpha.vercel.app/api?username=mansitee "Example")
 
